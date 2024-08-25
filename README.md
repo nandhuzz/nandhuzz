@@ -17,6 +17,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗦𝘁𝗮𝘁𝘀
 
-![nandhuzz's github stats](https://github-readme-stats.vercel.app/api?username=nandhuzz&show_icons=true&theme=dracula)
+ ![nandhuzz's github stats](https://github-readme-stats.vercel.app/api?username=nandhuzz&show_icons=true&theme=dracula) -->
