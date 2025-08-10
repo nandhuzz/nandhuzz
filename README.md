@@ -18,8 +18,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Kafka](https://img.shields.io/badge/-Kafka-%23231F20?style=flat-square&logo=apache-kafka&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-%23DC382D?style=flat-square&logo=redis&logoColor=ffffff)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-%23FF9900?style=flat-square&logo=amazon-s3&logoColor=ffffff)
-![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-%23527FFF?style=flat-square&logo=amazon-rds&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=ffffff)
