@@ -43,16 +43,9 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=000000)
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandhuzz&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuzz&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
-</p>
 
 ---
 
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://github.com/nandhuzz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://in.linkedin.com/in/anandhu-n-v)
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:anandhu7299@gmail.com)
